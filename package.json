@@ -1,0 +1,24 @@
+{
+  "name": "pavlov-shake-discord-killfeed",
+  "version": "1.0.0",
+  "description": "Pavlov Shake Killfeed to discord\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eviltik/pavlov-shake-discord-killfeed.git"
+  },
+  "keywords": [
+    "Pavlov",
+    "Discord",
+    "Killfeed"
+  ],
+  "author": "eviltik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eviltik/pavlov-shake-discord-killfeed/issues"
+  },
+  "homepage": "https://github.com/eviltik/pavlov-shake-discord-killfeed#readme"
+}
